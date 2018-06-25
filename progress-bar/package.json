@@ -2,7 +2,7 @@
   "name": "progress-bar",
   "version": "1.0.0",
   "description": "Progress bar application",
-  "author": "ashutosh2289@gmail.com",
+  "author": "ashutoshkumar22@gmail.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
